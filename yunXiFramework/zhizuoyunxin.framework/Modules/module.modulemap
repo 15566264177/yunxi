@@ -1,0 +1,6 @@
+framework module zhizuoyunxin {
+  umbrella header "zhizuoyunxin.h"
+
+  export *
+  module * { export * }
+}
